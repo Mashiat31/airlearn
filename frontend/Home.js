@@ -14,6 +14,8 @@ import {
 import homeStyles from './Home.styles.js';
 loadCSSFromString(homeStyles)
 
+//need new
+
 import Summary from './Summary'
 
 class Footer extends Component {
